@@ -2,7 +2,6 @@
 ## Cat vs Not-a-Cat Classifier
 
 This project trains and evaluates a deep learning model that classifies images as **Cat** or **Not a Cat**.  
-It is based on TensorFlow/Keras and the https://www.kaggle.com/code/fareselmenshawii/cats-vs-dogs-classification
 
 ---
 ## How It Works
@@ -36,7 +35,7 @@ It is based on TensorFlow/Keras and the https://www.kaggle.com/code/fareselmensh
 
 3. **Download the dataset**:
 
-   * Original Kaggle Cats vs Dogs dataset: https://www.kaggle.com/code/fareselmenshawii/cats-vs-dogs-classification
+   * Original Kaggle Cats vs Dogs dataset: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
    
 
 ---
