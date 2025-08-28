@@ -4,13 +4,15 @@
 This project trains and evaluates a deep learning model that classifies images as **Cat** or **Not a Cat**.  
 It is based on TensorFlow/Keras and the [Kaggle Cats vs Dogs dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
 
----
 ## Project Structure
-- **ai.py** → training script (builds & trains the CNN model, saves as `.keras`)
-- **organize_data.py** → prepares dataset folders (`train/` and `val/` splits)
-- **predict.py** → loads the trained model and makes predictions on new images
-- **cat_classifier_model.keras** → saved trained model (Keras 3 format)
+```
 
+├── README.md
+├── **ai.py** → training script (builds & trains the CNN model, saves as `.keras`)
+├── **organize_data.py** → prepares dataset folders (`train/` and `val/` splits)
+├── **predict.py** → loads the trained model and makes predictions on new images
+└── **cat_classifier_model.keras** → saved trained model (Keras 3 format)
+```
 ---
 
 ## Setup
