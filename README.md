@@ -104,6 +104,7 @@ Options:
 
 * Add evaluation script for accuracy/precision/recall on `val/`
 * Try different CNN architectures (e.g., MobileNetV2, ResNet50)
+* Experiment with data augmentation for better generalization
 
 ---
 
