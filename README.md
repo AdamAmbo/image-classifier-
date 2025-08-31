@@ -62,7 +62,7 @@ data/
 
 ---
 
-##Training
+## Training
 
 Train the CNN and save the model:
 
