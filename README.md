@@ -91,12 +91,10 @@ Output example:
 ```
 Prediction: Cat
 Raw score (sigmoid): 0.9234
-Confidence: 92.34% (threshold = 0.50)
+Confidence: 92.34% 
 ```
 
-Options:
 
-* `--threshold` → set custom decision threshold (default: 0.5)
 
 ---
 
